@@ -1,2 +1,2 @@
 # projectOOP
-This is a test
+Simple Applications of Java concepts
